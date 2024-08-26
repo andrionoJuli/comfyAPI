@@ -1,5 +1,6 @@
 import logging
 import io
+import uvicorn
 
 from fastapi import FastAPI, HTTPException, Form
 from typing import Annotated
