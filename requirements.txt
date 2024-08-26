@@ -1,0 +1,6 @@
+fastapi==0.112.2
+pillow==10.4.0
+requests-toolbelt==1.0.0
+websocket-client==1.8.0
+uvicorn
+python-multipart
